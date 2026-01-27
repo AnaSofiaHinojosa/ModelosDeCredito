@@ -33,3 +33,4 @@ def play_game():
     print(f"💀 Game over! The number was {secret_number}")
 
 play_game()
+
